@@ -1,0 +1,5 @@
+[
+{"vendor": "ARM", "name": "CMSIS"},
+{"vendor": "Keil", "name": "ARM_Compiler"},
+{"vendor": "Keil", "name": "STM32H7xx_DFP"}
+]
